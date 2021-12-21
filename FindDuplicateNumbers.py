@@ -16,4 +16,4 @@ class Solution(object):
         return ptr
 
 ob1 = Solution()
-print(ob1.findDuplicate([3,2,3,4,2]))
+print(ob1.findDuplicate([1,2,3,3,1]))
